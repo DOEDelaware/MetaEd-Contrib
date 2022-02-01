@@ -2,6 +2,3 @@ Domain Entity EdFi.CalendarDate additions
     common ProgramLearningModalityType
         documentation "The learning modalities associated with the CalendarDate."
         is optional collection
-    bool PlaceHolderProp
-        documentation "Dummy Prop to overcome a bug"
-        is optional
